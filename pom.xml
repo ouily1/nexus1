@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.sample.main</groupId>
-  <artifactId>sample</artifactId>
+  <artifactId>nexus</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>nexus</name>
